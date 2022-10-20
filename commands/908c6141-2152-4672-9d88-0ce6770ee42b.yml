@@ -1,0 +1,7 @@
+type: custom
+customCommand: say hello again
+owner: 3c7c2cec-a5f0-42b9-83dc-8cfd5b3cd944
+position:
+  x: 756
+  'y': 238
+executeNext: null
