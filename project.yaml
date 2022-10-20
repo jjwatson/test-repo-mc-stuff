@@ -1,0 +1,15 @@
+name: Sandwiches
+description: ''
+version:
+  - 0
+  - 0
+  - 1
+uuids:
+  resources:
+    uuid: 39354f0c-c498-4dc2-a67f-90f6f2d2891b
+    modules:
+      resources: 641626b5-c948-4726-892a-561ca9b26c01
+  behaviours:
+    uuid: c7819670-5ea0-4a72-b54e-6694a2812b15
+    modules:
+      data: b7c6d711-1de5-404c-900f-4e60d0bf4a10
