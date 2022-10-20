@@ -1,0 +1,22 @@
+name: Hello
+displayName: ''
+geometryId: ''
+textureId: ''
+materialId: skeleton
+collisionBox:
+  width: 1
+  height: 1
+portraitTranslate:
+  - 0
+  - 0
+  - 0
+portraitScale:
+  - 1
+  - 1
+  - 1
+baseAnimations: []
+animationSlots: {}
+particleSlots: {}
+scripts:
+  initialize: ''
+  pre_animation: ''
