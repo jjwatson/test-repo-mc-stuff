@@ -1,0 +1,7 @@
+gameIdentifier: cae:ice_sparkle_palace
+type: particle
+name: some_particle_particle
+fileName: someParticle.particle.json
+extension: .json
+tags: []
+customTexture: 1c678055-2f19-4c5d-b288-37c2f68c8c26

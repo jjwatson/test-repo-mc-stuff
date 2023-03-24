@@ -1,0 +1,6 @@
+name: Pizza
+displayName: Pizza
+iconTextureId: db2b9763-0109-4ce6-a5d6-054c6a509ff8
+category: Items
+maxStackSize: 16
+usesShinyEffect: true

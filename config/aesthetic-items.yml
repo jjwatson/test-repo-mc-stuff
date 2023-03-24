@@ -1,0 +1,20 @@
+categoryHead:
+  enabled: true
+  categoryName: Head
+  slotTextureId: null
+  itemsNameSuffix: ''
+categoryChest:
+  enabled: true
+  categoryName: Chest
+  slotTextureId: null
+  itemsNameSuffix: ''
+categoryLegs:
+  enabled: true
+  categoryName: Legs
+  slotTextureId: null
+  itemsNameSuffix: ''
+categoryFeet:
+  enabled: true
+  categoryName: Feet
+  slotTextureId: null
+  itemsNameSuffix: ''

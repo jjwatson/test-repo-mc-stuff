@@ -1,0 +1,9 @@
+name: HelloBean
+displayName: ''
+personaId: 9fbba1fa-a599-442a-b442-765576ed5e76
+spawnPosition:
+  x: 0
+  'y': 0
+  z: 0
+enableGravity: false
+enableDialogue: false

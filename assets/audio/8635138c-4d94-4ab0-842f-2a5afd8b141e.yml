@@ -1,0 +1,7 @@
+type: audio
+soundEvent: dialogue.trophy
+category: neutral
+name: trophy
+fileName: trophy.ogg
+extension: .ogg
+tags: []
