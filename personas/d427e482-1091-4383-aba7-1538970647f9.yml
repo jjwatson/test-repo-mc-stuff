@@ -1,24 +1,22 @@
-name: Hello
-displayName: ''
+name: Snowman
+displayName: SNOWMAN
 geometryId: 4743a6e6-0e21-4f92-a269-4526c68928c3
 textureId: 0d53e553-de9c-4da8-a843-ac98812617d3
 materialId: 39ef07c4-9110-4339-9a77-2ecee1de1462
 collisionBox:
-  width: 1
-  height: 1
+  width: 1.1
+  height: 1.55
 portraitTranslate:
   - 0
   - 0
   - 0
 portraitScale:
-  - 1
-  - 1
-  - 1
+  - 0.76
+  - 0.76
+  - 0.76
 baseAnimations: []
 animationSlots: {}
 particleSlots: {}
 scripts:
-  initialize: |-
-    say hello
-    say hello there
+  initialize: ''
   pre_animation: ''

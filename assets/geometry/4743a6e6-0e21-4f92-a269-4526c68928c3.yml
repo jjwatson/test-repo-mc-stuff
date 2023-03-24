@@ -1,0 +1,7 @@
+category: entity
+fileName: snowmanJodieEntity.geo.json
+extension: .json
+gameIdentifier: geometry.jodie-entity
+name: Jodie Entity
+type: geometry
+tags: []
