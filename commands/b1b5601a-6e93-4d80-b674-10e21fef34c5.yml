@@ -1,0 +1,15 @@
+type: particle
+locationType: exact
+locationCoordinates:
+  x: 0
+  'y': 0
+  z: 0
+locationNpcId: null
+particleType: custom
+particleCustomId: 21fc92ac-ba97-4b67-b710-7db93e2ca87c
+particleBuiltInId: ''
+owner: 3c7c2cec-a5f0-42b9-83dc-8cfd5b3cd944
+position:
+  x: 238
+  'y': 23
+executeNext: null
