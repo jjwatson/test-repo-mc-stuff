@@ -1,0 +1,1 @@
+{"loop":true,"animation_length":1,"particle_effects":{"0.04":{"effect":"flame","locator":"i_particle"},"0.08":{"effect":"flame","locator":"g_particle"},"0.12":{"effect":"flame","locator":"h_particle"},"0.16":{"effect":"flame","locator":"t_particle"},"0.2":{"effect":"flame","locator":"s_particle"},"0.0":{"effect":"flame","locator":"l_particle"}}}

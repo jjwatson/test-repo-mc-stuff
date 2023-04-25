@@ -1,0 +1,1 @@
+{"animation_length":0.52,"bones":{"root":{"position":[0,"Math.max(0, Math.sin(query.anim_time*360)*5)",0]},"leftArm":{"rotation":[0,0,"-Math.max(0, Math.sin(query.anim_time*370)*15)"]},"rightArm":{"rotation":[0,0,"Math.max(0, Math.sin(query.anim_time*370)*15)"]}}}

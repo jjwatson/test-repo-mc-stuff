@@ -1,0 +1,15 @@
+fileName: balloons_float
+extension: .json
+gameIdentifier: animation.balloons.float
+name: Balloons Float
+type: animation
+tags: []
+particleSlots: []
+variables:
+  - s1
+  - s1
+  - s2
+  - s2
+  - s3
+  - s3
+tempVariables: []

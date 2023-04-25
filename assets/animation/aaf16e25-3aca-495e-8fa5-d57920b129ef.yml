@@ -1,0 +1,9 @@
+fileName: cae_humanoid_move
+extension: .json
+gameIdentifier: animation.cae_humanoid.move
+name: Cae Humanoid Move
+type: animation
+tags: []
+particleSlots: []
+variables: []
+tempVariables: []

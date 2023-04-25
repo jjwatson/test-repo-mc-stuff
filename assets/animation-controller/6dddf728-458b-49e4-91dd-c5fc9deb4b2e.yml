@@ -1,0 +1,17 @@
+fileName: fairy_librarian_base
+extension: .json
+gameIdentifier: controller.animation.fairy_librarian.base
+name: Fairy Librarian Base
+type: animation-controller
+tags: []
+animationSlots:
+  - base_pose
+  - float
+  - wings_flap
+  - legs_bounce
+  - bob
+  - hold
+particleSlots:
+  - trail
+variables: []
+tempVariables: []

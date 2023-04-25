@@ -1,0 +1,1 @@
+{"loop":true,"bones":{"earth":{"rotation":[0,"query.life_time*-25",0]},"moonOrbit":{"rotation":[0,"query.anim_time*-15",0]}}}

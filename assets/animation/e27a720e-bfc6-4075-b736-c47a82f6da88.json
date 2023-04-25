@@ -1,0 +1,1 @@
+{"animation_length":1,"bones":{"bell":{"position":{"0.0":[0,0,0],"0.04":[0,"math.sin(query.anim_time * 360 * 8) * 0.02 * math.clamp(1 - query.anim_time, 0, 1)",0]}},"button":{"position":{"0.0":[0,0,0],"0.04":{"pre":[0,-1,0],"post":[0,-1,0],"lerp_mode":"catmullrom"},"0.12":[0,0,0]}}}}

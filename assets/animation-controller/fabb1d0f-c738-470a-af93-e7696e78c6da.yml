@@ -1,0 +1,11 @@
+fileName: cae_generic_particle_controller
+extension: .json
+gameIdentifier: controller.animation.cae.generic.particle_controller
+name: Cae Generic Particle Controller
+type: animation-controller
+tags: []
+animationSlots: []
+particleSlots:
+  - particle
+variables: []
+tempVariables: []

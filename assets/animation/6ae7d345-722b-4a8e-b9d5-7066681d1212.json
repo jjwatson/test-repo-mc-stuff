@@ -1,0 +1,1 @@
+{"loop":true,"bones":{"root":{"rotation":[0,"query.anim_time*45",0],"position":[0,"19+Math.sin(query.anim_time*45)",0]}}}

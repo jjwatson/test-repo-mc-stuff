@@ -1,0 +1,4 @@
+mcMaterialName: entity_emissive_alpha
+description: >-
+  Alpha is primarily used for emission (lower = higher emission), except for
+  zero alpha, which is treated as fully transparent.

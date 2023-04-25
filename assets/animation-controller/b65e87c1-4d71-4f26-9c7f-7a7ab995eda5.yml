@@ -1,0 +1,15 @@
+fileName: combolock_wheel_rotation
+extension: .json
+gameIdentifier: controller.animation.combolock_wheel.rotation
+name: Combolock Wheel Rotation
+type: animation-controller
+tags: []
+animationSlots:
+  - rotation_0
+  - rotate_to_0
+  - rotation_1
+  - rotation_2
+  - rotation_3
+particleSlots: []
+variables: []
+tempVariables: []

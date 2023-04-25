@@ -1,0 +1,12 @@
+fileName: gormi_coin_root
+extension: .json
+gameIdentifier: controller.animation.gormi_coin.root
+name: Gormi Coin Root
+type: animation-controller
+tags: []
+animationSlots:
+  - idle
+  - collected
+particleSlots: []
+variables: []
+tempVariables: []

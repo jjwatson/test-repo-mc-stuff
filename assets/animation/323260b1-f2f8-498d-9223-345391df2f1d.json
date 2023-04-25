@@ -1,0 +1,1 @@
+{"loop":true,"bones":{"wingR":{"rotation":[0,"variable.wing_flap",0]},"wingL":{"rotation":[0,"-variable.wing_flap",0]}}}

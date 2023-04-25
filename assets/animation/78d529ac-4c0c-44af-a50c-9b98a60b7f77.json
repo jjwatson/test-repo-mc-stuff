@@ -1,0 +1,1 @@
+{"loop":true,"bones":{"leftarm":{"rotation":[0,0,"((math.cos(query.life_time * 103.2) * 2.865) + 2.865) *-1.0"]},"rightarm":{"rotation":[0,0,"(math.cos(query.life_time * 103.2) * 2.865) + 2.865"]}}}

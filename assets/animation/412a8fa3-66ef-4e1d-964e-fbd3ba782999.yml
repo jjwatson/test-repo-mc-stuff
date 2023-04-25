@@ -1,0 +1,9 @@
+fileName: villager_move
+extension: .json
+gameIdentifier: animation.villager.move
+name: Villager Move
+type: animation
+tags: []
+particleSlots: []
+variables: []
+tempVariables: []

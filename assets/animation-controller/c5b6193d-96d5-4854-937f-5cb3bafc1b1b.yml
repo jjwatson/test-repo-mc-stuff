@@ -1,0 +1,13 @@
+fileName: warp_book_awareness_v_2
+extension: .json
+gameIdentifier: controller.animation.warp_book.awareness_v2
+name: Warp Book Awareness V 2
+type: animation-controller
+tags: []
+animationSlots:
+  - spin
+  - face_player
+  - stay_open
+particleSlots: []
+variables: []
+tempVariables: []

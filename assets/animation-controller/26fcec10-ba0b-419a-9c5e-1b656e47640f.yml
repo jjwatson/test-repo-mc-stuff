@@ -1,0 +1,11 @@
+fileName: particle_transformer
+extension: .json
+gameIdentifier: controller.animation.particle_transformer
+name: Particle Transformer
+type: animation-controller
+tags: []
+animationSlots: []
+particleSlots:
+  - particle
+variables: []
+tempVariables: []

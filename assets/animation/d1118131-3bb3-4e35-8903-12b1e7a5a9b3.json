@@ -1,0 +1,19 @@
+{
+  "loop": true,
+  "bones": {
+    "bigHand": {
+      "rotation": [
+        0,
+        0,
+        "(query.life_time*360)/50"
+      ]
+    },
+    "littleHand": {
+      "rotation": [
+        0,
+        0,
+        "(2*360)*query.time_of_day"
+      ]
+    }
+  }
+}

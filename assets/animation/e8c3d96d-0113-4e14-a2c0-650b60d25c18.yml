@@ -1,0 +1,21 @@
+fileName: vending_machine_base_pose
+extension: .json
+gameIdentifier: animation.vending_machine.base_pose
+name: Vending Machine Base Pose
+type: animation
+tags: []
+particleSlots: []
+variables:
+  - drink_scale
+  - drink_scale
+  - drink_scale
+  - drink_scale
+  - drink_scale
+  - drink_scale
+  - drink_scale
+  - drink_scale
+  - drink_scale
+  - drink_scale
+  - drink_scale
+  - drink_scale
+tempVariables: []

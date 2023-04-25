@@ -6,4 +6,5 @@ spawnPosition:
   'y': 0
   z: 0
 enableGravity: false
-enableDialogue: false
+enableDialogue: true
+defaultDialogueId: 3cc91fbb-76c3-4a01-9cda-edd33691ed2d

@@ -1,0 +1,1 @@
+{"loop":true,"animation_length":104.28,"bones":{"skirtFront":{"rotation":["math.abs(variable.tcos0) * -1.4",0,0]},"skirtFront2":{"rotation":["math.abs(variable.tcos0) * -0.7",0,0]},"skirtRear2":{"rotation":["math.abs(variable.tcos0) * 0.7",0,0]},"skirtRear":{"rotation":["math.abs(variable.tcos0) * 1.4",0,0]}}}

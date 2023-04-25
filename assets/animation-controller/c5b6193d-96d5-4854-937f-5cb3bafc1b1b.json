@@ -1,0 +1,1 @@
+{"initial_state":"closed","states":{"closed":{"animations":["spin"],"transitions":[{"open":"query.has_target"}],"blend_transition":0.4},"open":{"animations":["face_player","stay_open"],"transitions":[{"closed":"!query.has_target"}],"blend_transition":0.6}}}

@@ -1,0 +1,1 @@
+{"initial_state":"initial","states":{"initial":{"transitions":[{"complete":"query.mark_variant == 1"}]},"complete":{"animations":["complete_disappear"]}}}

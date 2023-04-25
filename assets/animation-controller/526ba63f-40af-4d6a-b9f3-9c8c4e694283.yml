@@ -1,0 +1,11 @@
+fileName: cae_generic_movement_basic
+extension: .json
+gameIdentifier: controller.animation.cae.generic.movement_basic
+name: Cae Generic Movement Basic
+type: animation-controller
+tags: []
+animationSlots:
+  - move
+particleSlots: []
+variables: []
+tempVariables: []

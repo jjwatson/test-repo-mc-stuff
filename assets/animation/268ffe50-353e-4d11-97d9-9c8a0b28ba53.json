@@ -1,0 +1,1 @@
+{"loop":true,"bones":{"root":{"position":[0,"Math.abs(Math.sin(query.anim_time*250))*10",0]},"leftArm":{"rotation":[0,0,"-Math.lerp(130, 150, Math.sin(query.anim_time*600)/2+0.5)"],"scale":[1,1,0.9]},"rightArm":{"rotation":[0,0,"Math.lerp(130, 150, Math.sin(query.anim_time*600)/2+0.5)"],"scale":[1,1,0.9]}}}

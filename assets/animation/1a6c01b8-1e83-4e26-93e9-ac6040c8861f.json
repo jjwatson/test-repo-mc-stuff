@@ -1,0 +1,1 @@
+{"loop":true,"animation_length":6,"bones":{"rightWing":{"rotation":[0,"variable.wing_angle",0]},"leftWing":{"rotation":[0,"-variable.wing_angle",0]}}}

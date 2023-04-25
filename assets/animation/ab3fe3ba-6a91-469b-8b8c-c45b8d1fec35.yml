@@ -1,0 +1,15 @@
+fileName: lights_sign_particles
+extension: .json
+gameIdentifier: animation.lights_sign.particles
+name: Lights Sign Particles
+type: animation
+tags: []
+particleSlots:
+  - flame
+  - flame
+  - flame
+  - flame
+  - flame
+  - flame
+variables: []
+tempVariables: []

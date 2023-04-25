@@ -1,0 +1,11 @@
+fileName: combolock_wheel_v_3_ctrl_complete
+extension: .json
+gameIdentifier: controller.animation.combolock_wheel_v3.ctrl_complete
+name: Combolock Wheel V 3 Ctrl Complete
+type: animation-controller
+tags: []
+animationSlots:
+  - complete_disappear
+particleSlots: []
+variables: []
+tempVariables: []

@@ -1,0 +1,1 @@
+{"loop":true,"bones":{"root":{"rotation":["query.modified_move_speed*22.5",0,"variable.rot_wave*15"],"position":[0,"query.modified_move_speed*2.4+variable.pos_wave*0.5",0]}}}

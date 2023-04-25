@@ -1,0 +1,9 @@
+fileName: service_bell_ring
+extension: .json
+gameIdentifier: animation.service_bell.ring
+name: Service Bell Ring
+type: animation
+tags: []
+particleSlots: []
+variables: []
+tempVariables: []

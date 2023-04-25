@@ -1,0 +1,56 @@
+name: Hint Block v2
+displayName: Hint Block
+geometryId: fc0f95e2-2bc4-4a05-b3d3-67798bf992f2
+textureId: c360af7b-4555-40f7-b8eb-dcceb8d2442a
+materialId: 23c09760-83b5-4b04-be6d-9e79525cc7e1
+collisionBox:
+  width: 0.625
+  height: 0.625
+portraitTranslate:
+  - 0
+  - 64
+  - 0
+portraitScale:
+  - 2
+  - 2
+  - 2
+baseAnimations:
+  - uuid: a35f6dd4-d33e-43bf-9602-34356716ba3d
+    type: animation-controller
+animationSlots:
+  ctrl_inactive_boing:
+    type: animation-controller
+    uuid: efb66f97-ee89-4393-956f-ba20ca75aaf5
+  activated:
+    type: animation
+    uuid: d48ab3ab-fbd1-45f2-984e-b325c163959b
+  boing:
+    type: animation
+    uuid: b9764544-a826-4bc1-907b-17081a2c469e
+  coin_inserted:
+    type: animation
+    uuid: 21d833a6-1a7f-40eb-95e6-b22fbb310f5f
+  float:
+    type: animation
+    uuid: 6ae7d345-722b-4a8e-b9d5-7066681d1212
+  inactive:
+    type: animation
+    uuid: 607ed710-72a8-4b90-a7f4-d84dda927be1
+  rise:
+    type: animation
+    uuid: d948bc20-5a66-407a-94ed-af4b7165cd85
+  upgraded:
+    type: animation
+    uuid: 4b179fb5-a7be-42c7-9578-8a1419e626e4
+particleSlots: {}
+scripts:
+  initialize: ''
+  pre_animation: >-
+    temp.touch_boing_y =
+    1+Math.sin(query.anim_time*360*5)*Math.clamp(1-query.anim_time/0.5,0,1)*0.5;
+
+    temp.touch_boing_xz = 1/Math.sqrt(temp.touch_boing_y);
+
+
+    temp.rise_spin =
+    360*Math.sin(90*Math.clamp(query.anim_time-0.08,0,0.52-0.08)/(0.52-0.08));

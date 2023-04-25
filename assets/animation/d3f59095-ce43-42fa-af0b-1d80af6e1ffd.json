@@ -1,0 +1,1 @@
+{"anim_time_update":"query.modified_distance_moved","loop":true,"bones":{"rightleg":{"rotation":["(math.cos(query.anim_time * 38.17) * 40.0) - this","-this",0]},"leftleg":{"rotation":["(math.cos(query.anim_time * 38.17 + 180) * 40.0) - this","-this",0]}}}

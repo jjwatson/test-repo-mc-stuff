@@ -1,0 +1,20 @@
+fileName: hint_block_v_2_root
+extension: .json
+gameIdentifier: controller.animation.hint_block_v2.root
+name: Hint Block V 2 Root
+type: animation-controller
+tags: []
+animationSlots:
+  - inactive
+  - ctrl_inactive_boing
+  - coin_inserted
+  - rise
+  - activated
+  - float
+  - boing
+  - upgraded
+  - float
+  - boing
+particleSlots: []
+variables: []
+tempVariables: []

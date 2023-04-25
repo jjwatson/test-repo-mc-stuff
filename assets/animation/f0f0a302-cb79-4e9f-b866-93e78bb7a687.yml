@@ -1,0 +1,9 @@
+fileName: particle_transformer_rotate_y
+extension: .json
+gameIdentifier: animation.particle_transformer.rotate-y
+name: Particle Transformer Rotate Y
+type: animation
+tags: []
+particleSlots: []
+variables: []
+tempVariables: []

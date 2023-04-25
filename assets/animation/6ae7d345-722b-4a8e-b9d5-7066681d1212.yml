@@ -1,0 +1,9 @@
+fileName: hint_block_active_idle
+extension: .json
+gameIdentifier: animation.hint_block.active_idle
+name: Hint Block Active Idle
+type: animation
+tags: []
+particleSlots: []
+variables: []
+tempVariables: []

@@ -1,0 +1,11 @@
+fileName: jane_bones_hold_item_controller
+extension: .json
+gameIdentifier: controller.animation.jane_bones.hold_item_controller
+name: Jane Bones Hold Item Controller
+type: animation-controller
+tags: []
+animationSlots:
+  - hold_item
+particleSlots: []
+variables: []
+tempVariables: []

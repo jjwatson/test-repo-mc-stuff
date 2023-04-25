@@ -1,0 +1,11 @@
+fileName: cae_villager_base_pose
+extension: .json
+gameIdentifier: animation.cae_villager.base_pose
+name: Cae Villager Base Pose
+type: animation
+tags: []
+particleSlots: []
+variables:
+  - age_body_scale
+  - age_head_scale
+tempVariables: []

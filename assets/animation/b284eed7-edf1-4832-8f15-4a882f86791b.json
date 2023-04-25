@@ -1,0 +1,1 @@
+{"loop":true,"bones":{"head":{"rotation":["variable.head_updown",0,0]},"leftArm":{"rotation":["variable.l_updown","variable.l_side",0]},"rightArm":{"rotation":["variable.r_updown","variable.r_side",0]}}}

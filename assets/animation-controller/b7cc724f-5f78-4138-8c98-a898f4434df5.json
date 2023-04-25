@@ -1,0 +1,1 @@
+{"initial_state":"holding_item","states":{"holding_item":{"animations":[{"hold_item":"query.get_equipped_item_name(0) != ''"}]}}}

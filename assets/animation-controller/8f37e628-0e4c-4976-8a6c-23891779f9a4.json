@@ -1,0 +1,1 @@
+{"initial_state":"idle","states":{"idle":{"animations":["idle"],"transitions":[{"collected":"query.mark_variant == 1"}],"blend_transition":0.05},"collected":{"animations":["collected"]}}}

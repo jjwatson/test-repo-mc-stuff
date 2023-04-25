@@ -1,0 +1,1 @@
+{"initial_state":"idle","states":{"idle":{"animations":["base_pose","float","wings_flap","legs_bounce",{"bob":"query.get_equipped_item_name(0) == ''"},{"hold":"query.get_equipped_item_name(0) != ''"}],"particle_effects":[{"effect":"trail"}]}}}

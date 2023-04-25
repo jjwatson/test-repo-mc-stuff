@@ -1,0 +1,11 @@
+fileName: hint_block_ctrl_inactive_boing
+extension: .json
+gameIdentifier: controller.animation.hint_block.ctrl_inactive_boing
+name: Hint Block Ctrl Inactive Boing
+type: animation-controller
+tags: []
+animationSlots:
+  - boing
+particleSlots: []
+variables: []
+tempVariables: []
